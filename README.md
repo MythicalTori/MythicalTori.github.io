@@ -1,2 +1,2 @@
-# MythicalTori.gethub.io
+# MythicalTori.github.io
 Wowzers!
